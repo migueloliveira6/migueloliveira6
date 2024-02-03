@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/migueloliveira6?tab=repositories](https://github.com/migueloliveira6?tab=repositories)
 
-<! –– 📫 How to reach me **luis.miguel582004@gmail.com** ––>
-
 - ⚡ Fun fact **I love gym ⚡**
 
 <h3 align="left">Connect with me:</h3>
