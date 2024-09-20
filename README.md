@@ -3,7 +3,7 @@
 
 - 🔭 I´m currently in my second year **of Engineering and Management of Information Systems at Universidade do Minho!**
 
-- 🌱 I’m currently learning **Java and JavaScript!**
+- 🌱 I’m currently learning **Python and Java!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/migueloliveira6?tab=repositories](https://github.com/migueloliveira6?tab=repositories)
 
