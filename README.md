@@ -1,7 +1,7 @@
 <h1 align="center">I'm Luís Oliveira</h1>
 <h3 align="center">IT Enginner Student</h3>
 
-- 🔭 I´m currently going to **first year Msc** of **Engineering and Management of Information Systems at Universidade do Minho!**
+- 🔭 I´m currently going to my **first year Msc** of **Engineering and Management of Information Systems at Universidade do Minho!**
 
 - 🌱 I’m currently learning **Python, Data Analytis and Jupyter Notebook!**
 
