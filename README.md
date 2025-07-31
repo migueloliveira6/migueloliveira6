@@ -1,9 +1,9 @@
 <h1 align="center">I'm Luís Oliveira</h1>
 <h3 align="center">IT Enginner Student</h3>
 
-- 🔭 I´m currently in my **third and final year** of **Engineering and Management of Information Systems at Universidade do Minho!**
+- 🔭 I´m currently going to **first year Msc** of **Engineering and Management of Information Systems at Universidade do Minho!**
 
-- 🌱 I’m currently learning **Python, Vue and Bootstrap!**
+- 🌱 I’m currently learning **Python, Data Analytis and Jupyter Notebook!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/migueloliveira6?tab=repositories](https://github.com/migueloliveira6?tab=repositories)
 
