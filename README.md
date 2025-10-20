@@ -3,7 +3,7 @@
 
 - 🔭 I´m currently on my **first year on Msc** of **Engineering and Management of Information Systems at Universidade do Minho!**
 
-- 🌱 I’m currently learning **Python, Data Analytis and Jupyter Notebook!**
+- 🌱 I’m currently learning **Python, Data Analytics and Jupyter Notebook!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/migueloliveira6?tab=repositories](https://github.com/migueloliveira6?tab=repositories)
 
