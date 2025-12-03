@@ -44,8 +44,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   </a>
 </p>
-
-<div style="background-color: black; padding: 5px; display: inline-block; border-radius: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=migueloliveira6&show_icons=true&locale=en&theme=dark" alt="migueloliveira6" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migueloliveira6&show_icons=true&locale=en&layout=compact&theme=dark" alt="migueloliveira6" 
-</div>
