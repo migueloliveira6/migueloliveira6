@@ -46,6 +46,5 @@
 </p>
 
 <div style="background-color: black; padding: 5px; display: inline-block; border-radius: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=migueloliveira6&show_icons=true&locale=en&theme=dark" alt="migueloliveira6" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=migueloliveira6&show_icons=true&locale=en&layout=compact&theme=dark" alt="migueloliveira6" 
+    ![](http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=migueloliveira6&theme=midnight_purple)
 </div>
