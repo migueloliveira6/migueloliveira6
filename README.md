@@ -46,5 +46,5 @@
 </p>
 
 <div style="background-color: black; padding: 5px; display: inline-block; border-radius: 5px;">
-    ![](http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=migueloliveira6&theme=midnight_purple)
+  <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=migueloliveira6&theme=midnight_purple"/>
 </div>
