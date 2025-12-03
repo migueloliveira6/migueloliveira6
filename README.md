@@ -48,4 +48,5 @@
 <div style="background-color: black; padding: 5px; display: inline-block; border-radius: 5px;">
   <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=migueloliveira6&theme=midnight_purple"/>
   <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/stats?username=migueloliveira6&theme=midnight_purple"/>
+  <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/repos-per-language?username=migueloliveira6&theme=midnight_purple"/>
 </div>
