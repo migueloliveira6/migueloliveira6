@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/migueloliveira6?tab=repositories](https://github.com/migueloliveira6?tab=repositories)
 
-- ⚡ Fun fact **I love gym ⚡**
+- ⚡ Fun fact **I love gym and swimming⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
