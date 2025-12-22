@@ -1,5 +1,5 @@
 <h1 align="center">I'm Luís Oliveira</h1>
-<h3 align="center">IT Enginner Student</h3>
+<h3 align="center">IT Enginner and Machine Learning Enthusiast</h3>
 
 - 🔭 I´m currently on my **first year on Msc** of **Engineering and Management of Information Systems at Universidade do Minho!**
 
