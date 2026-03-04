@@ -14,6 +14,8 @@
 <a href="https://www.linkedin.com/in/luis-oliveira6" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
 </p>
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmigueloliveira6"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmigueloliveira6&label=VISITORS&labelColor=%23f47373&countColor=%23555555" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
