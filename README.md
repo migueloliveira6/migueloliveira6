@@ -9,6 +9,14 @@
 
 - ⚡ Fun fact **I love gym and swimming⚡**
 
+<a href="https://sakura-garden.vercel.app" target="_blank" rel="noopener">
+ <picture>
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=migueloliveira6&theme=dark" media="(prefers-color-scheme: dark)" width="846" height="164" style="height:auto" />
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=migueloliveira6&theme=light" media="(prefers-color-scheme: light)" width="846" height="164" style="height:auto" />
+  <img src="https://sakura-garden.vercel.app/api/svg?username=migueloliveira6&theme=light" width="846" height="164" style="height:auto" />
+</picture>
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-oliveira6" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
